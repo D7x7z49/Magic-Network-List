@@ -1,5 +1,3 @@
 # Magic-Network-List
-proxy website list # 科学上网 # 魔法
 
-* [Speed17](https://fxyjs.fun/#/register?code=Baz9YuQt)
-* [V2free](https://w1.v2free.top/auth/register?code=Rc3x)
+[Clash](https://github.com/Dreamacro/clash) & [Speed17](https://fxyjs.fun/#/register?code=PSsfxrd7)
