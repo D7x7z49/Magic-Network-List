@@ -1,6 +1,9 @@
 # Magic-Network-List
 
-> A project to collect web resources
+> A project to collect web resources.
+>
+> * **tool** : Tools you can use with confidence
+> * **docs** : There are risks involved, and these are at your own risk. But the information in the docs is very valuable.
 
 ## tool
 
