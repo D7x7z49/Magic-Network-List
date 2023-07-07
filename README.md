@@ -10,6 +10,7 @@
 ## docs
 
 * https://github.com/hoochanlon/fq-book
+* https://github.com/bannedbook/fanqiang
 
 ## network node
 
